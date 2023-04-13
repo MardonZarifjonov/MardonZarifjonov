@@ -1,5 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mardon Zarifjonov!
-<div style="display:flex;">
+#### Technologies that I use: 
+<div style="display:flex; gap-8px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="JavaScript Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="JavaScript Logo" width="50" height="50"/>
