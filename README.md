@@ -7,7 +7,9 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="JavaScript Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="JavaScript Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/scss/scss-original.svg" alt="JavaScript Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="JavaScript Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" alt="JavaScript Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/prettier/prettier-original.svg" alt="JavaScript Logo" width="50" height="50"/>
 
 
 <!--
