@@ -14,10 +14,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" alt="JavaScript Logo" width="50" height="50"/>
   </div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mardonzarifjonov)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
+
+[![Mardon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mardonzarifjonov&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **MardonZarifjonov/MardonZarifjonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
