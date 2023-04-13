@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mardon Zarifjonov!
-<p>Frontend Developer with 3 years of hands-on experience in the development of reliable, well-structured and maintainable applications. Involved in the development of medium sized websites, CRM systems, Admin panels, chat services and as primary technology use Javascript, React JS specifically.</p>
+<p>Frontend Developer with 3 years of hands-on experience in the development of reliable, well-structured and maintainable applications. Involved in the development of medium sized websites, CRM systems, Admin panels, chat services and as primary technology use 🤯Javascript, ⚛️React JS specifically.</p>
 <h3 align="left">Languages and Tools:</h3>
 <div style="display:flex; gap-8px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/>
