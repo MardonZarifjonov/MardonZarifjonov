@@ -18,7 +18,7 @@
 
 [![Mardon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mardonzarifjonov&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/mardon-zarifjonov/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mardon-zarifjonov/)
 <!--
 **MardonZarifjonov/MardonZarifjonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
