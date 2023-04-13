@@ -1,4 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mardon Zarifjonov!
+<div style="display:flex;flex-direction:column;gap:10px">
 <p>Frontend Developer with 3 years of hands-on experience in the development of reliable, well-structured and maintainable applications. Involved in the development of medium sized websites, CRM systems, Admin panels, chat services and as primary technology use 🤯Javascript, ⚛️React JS specifically.</p>
 <h3 align="left">Languages and Tools:</h3>
 <div style="display:flex; gap-8px">
@@ -13,8 +14,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" alt="JavaScript Logo" width="50" height="50"/>
 </div
-
 [![Mardons's GitHub stats](https://github-readme-stats.vercel.app/api?username=mardonzarifjonov&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats&)
+</div>
 <!--
 **MardonZarifjonov/MardonZarifjonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
